@@ -14,4 +14,4 @@ csharp = "./WebfishingSampleMod/WebfishingSampleMod.csproj"
 godot = "./project/project.godot"
 
 [[dependencies]]
-thunderstore_version = "NotNet-GDWeave-2.0.13"
+thunderstore_version = "NotNet-GDWeave-2.0.14"
