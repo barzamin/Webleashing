@@ -1,16 +1,16 @@
 
-id = "WebfishingSampleMod"
-name = "Webfishing Sample Mod"
-description = "This is a sample mod."
+id = "Webleashing"
+name = "webleashing"
+description = "leash ur oomfs <3"
 version = "1.0.0"
-homepage = "https://github.com/NotNite/WebfishingSampleMod"
-author = "You!"
+homepage = "https://github.com/barzamin/webleashing"
+author = "3moon"
 
 icon = "icon.png"
 readme = "README.md"
 
 [project]
-csharp = "./WebfishingSampleMod/WebfishingSampleMod.csproj"
+csharp = "./Webleashing/Webleashing.csproj"
 godot = "./project/project.godot"
 
 [[dependencies]]
