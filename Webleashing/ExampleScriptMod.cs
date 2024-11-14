@@ -2,7 +2,7 @@
 using GDWeave.Godot.Variants;
 using GDWeave.Modding;
 
-namespace WebfishingSampleMod;
+namespace Webleashing;
 
 public class ExampleScriptMod : IScriptMod {
     public bool ShouldRun(string path) => path == "res://Scenes/Singletons/SteamNetwork.gdc";

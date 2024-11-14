@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace WebfishingSampleMod;
+namespace Webleashing;
 
 public class Config {
     [JsonInclude] public bool SomeSetting = true;
