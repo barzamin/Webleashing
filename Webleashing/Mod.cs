@@ -7,7 +7,7 @@ public class Mod : IMod {
 
     public Mod(IModInterface modInterface) {
         this.Config = modInterface.ReadConfig<Config>();
-        modInterface.RegisterScriptMod(new ExampleScriptMod());
+        // modInterface.RegisterScriptMod(new ExampleScriptMod());
         modInterface.Logger.Information("Hello, world!");
     }
 

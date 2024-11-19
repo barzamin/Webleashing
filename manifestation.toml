@@ -15,3 +15,7 @@ godot = "./project/project.godot"
 
 [[dependencies]]
 thunderstore_version = "NotNet-GDWeave-2.0.14"
+
+[[dependencies]]
+id = "Sulayre.Lure"
+thunderstore_version = "Sulayre-Lure-4.2.1"
